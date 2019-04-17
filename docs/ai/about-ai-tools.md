@@ -17,7 +17,7 @@ Visual Studio Tools for AI is an extension to build, test, and deploy Deep Learn
 
 Get started with deep learning using [Microsoft Cognitive Toolkit (CNTK)](http://www.microsoft.com/en-us/cognitive-toolkit), [Google TensorFlow](https://www.tensorflow.org), or other deep-learning frameworks today.
 
-## Develop, debug, and deploy deep learning models and AI solutions
+## Develop, debug, and deploy deep learning models and AI solutions yyyyyyyyyyyyyyyyyyyyyyyyyyyy
 Use the productivity features of Visual Studio to accelerate AI innovation today. Use built-in code editor features like syntax highlighting, IntelliSense, and text auto formatting. You can interactively test your deep learning application in your local environment using step-through debugging on local variables and models.
 
 ![deep learning ide](media/about/ide.png)
